@@ -1,0 +1,49 @@
+
+
+{
+  "LocalDestino": [
+    {
+     "id": 1,
+     "UserId": 1,
+     "Ativado": true,
+     "latitude" : "-21.520258",
+     "longitude" : "-42.658772",
+     "minAntes" : 15,
+     "Nome" : "Parada Trabalho",
+     "Data" : "2022-09-29"
+    },
+    {
+     "id": 2,
+     "UserId": 2,
+     "Ativado": true,
+     "latitude" : "-21.531189",
+     "longitude" : "-42.634432",
+     "tempoAntes" : 5,
+     "Nome" : "Escola"
+    },
+    {
+     "id": 3,
+     "UserId": 3,
+     "Ativado": true,
+     "latitude" : "-21.701673",
+     "longitude" : "-41.307044",
+     "tempoAntes" : 0,
+     "Nome" : "Viagem",
+     "Data" : "2022-09-29"
+    }
+  ],
+  "Usuario": [
+    {
+      "id": 1,
+      "nome": "Adailtom"
+    },
+    {
+      "id": 2,
+      "nome": "Sidney"
+    },
+    {
+      "id": 3,
+      "nome": "Neuza"
+    }
+  ]
+}
