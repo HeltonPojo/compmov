@@ -10,7 +10,8 @@
      "longitude" : "-42.658772",
      "minAntes" : 15,
      "Nome" : "Parada Trabalho",
-     "Data" : "2022-09-29"
+     "Data" : "2022-09-29",
+     "Toque" : "Viva La Vida"
     },
     {
      "id": 2,
@@ -19,7 +20,8 @@
      "latitude" : "-21.531189",
      "longitude" : "-42.634432",
      "tempoAntes" : 5,
-     "Nome" : "Escola"
+     "Nome" : "Escola",
+     "Toque" : "Viva La Vida"
     },
     {
      "id": 3,
@@ -29,20 +31,26 @@
      "longitude" : "-41.307044",
      "tempoAntes" : 0,
      "Nome" : "Viagem",
-     "Data" : "2022-09-29"
+     "Toque" : "Viva La Vida"
     }
   ],
   "Usuario": [
     {
       "id": 1,
+      "email": "adailtom1@gmai.com",
+      "pass": "12345678",
       "nome": "Adailtom"
     },
     {
       "id": 2,
+      "email": "sidsouza@gmai.com",
+      "pass": "12345678",
       "nome": "Sidney"
     },
     {
       "id": 3,
+      "email": "neuzinha_almeida@gmai.com",
+      "pass": "12345678",
       "nome": "Neuza"
     }
   ]
