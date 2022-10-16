@@ -8,9 +8,7 @@
      "Ativado": true,
      "latitude" : "-21.520258",
      "longitude" : "-42.658772",
-     "minAntes" : 15,
      "Nome" : "Parada Trabalho",
-     "Data" : "2022-09-29",
      "Toque" : "Viva La Vida"
     },
     {
@@ -19,7 +17,6 @@
      "Ativado": true,
      "latitude" : "-21.531189",
      "longitude" : "-42.634432",
-     "tempoAntes" : 5,
      "Nome" : "Escola",
      "Toque" : "Viva La Vida"
     },
@@ -29,7 +26,6 @@
      "Ativado": true,
      "latitude" : "-21.701673",
      "longitude" : "-41.307044",
-     "tempoAntes" : 0,
      "Nome" : "Viagem",
      "Toque" : "Viva La Vida"
     }
